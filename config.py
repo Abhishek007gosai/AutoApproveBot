@@ -13,4 +13,4 @@ DB_URI = os.environ.get("DB_URI", "mongodb+srv://Kafka:Au3OoWzCDYJKeuHU@cluster0
 DB_NAME = os.environ.get("DB_NAME", "cluster0")
 
 IS_FSUB = os.environ.get("IS_FSUB", "False").lower() == "true"  # Set "True" For Enable Force Subscribe
-AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-100******** -100*********").split())) # Add Multiple channel ids
+AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-1001457313028 -1001607131442").split())) # Add Multiple channel ids
