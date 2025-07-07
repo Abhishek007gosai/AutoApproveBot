@@ -22,8 +22,8 @@ async def callback_query_handler(client, query: CallbackQuery):
             text.HELP.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://telegram.me/Techifybots'),
-                 InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://telegram.me/TechifySupport')],
+                [InlineKeyboardButton('ᴇᴛᴇʀɴᴀʟs', url='https://t.me/Anime_Eternals'),
+                 InlineKeyboardButton('ꜱᴜᴩᴩᴏʀᴛ', url='https://t.me/EternalsHelplineBot')],
                 [InlineKeyboardButton('ʙᴀᴄᴋ', callback_data="start"),
                  InlineKeyboardButton('ᴄʟᴏꜱᴇ', callback_data="close")]
             ])
@@ -34,7 +34,7 @@ async def callback_query_handler(client, query: CallbackQuery):
             text.ABOUT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('💥 ʀᴇᴘᴏ', url='https://github.com/TechifyBots/Auto-Approve-Bot'),
+                [InlineKeyboardButton('💥 ʀᴇᴘᴏ', url='https://t.me/EternalsHelplineBot'),
                  InlineKeyboardButton('👨‍💻 ᴏᴡɴᴇʀ', user_id=int(ADMIN))],
                 [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
                  InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
