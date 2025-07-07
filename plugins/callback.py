@@ -34,8 +34,8 @@ async def callback_query_handler(client, query: CallbackQuery):
             text.ABOUT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('💥 ʀᴇᴘᴏ', url='https://t.me/EternalsHelplineBot'),
-                 InlineKeyboardButton('👨‍💻 ᴏᴡɴᴇʀ', user_id=int(ADMIN))],
+                [InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/EternalsHelplineBot'),
+                 InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/EternalsHelplineBot')],
                 [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
                  InlineKeyboardButton("ᴄʟᴏꜱᴇ", callback_data="close")]
             ])
