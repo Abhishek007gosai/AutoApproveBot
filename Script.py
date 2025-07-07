@@ -26,4 +26,4 @@ ID: {}"""
 ➥ 𝖭𝗈𝗐 𝗎𝗌𝖾 /accept 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝖼𝖼𝖾𝗉𝗍 𝖺𝗅𝗅 𝗉𝖾𝗇𝖽𝗂𝗇𝗀 𝗋𝖾𝗊𝗎𝖾𝗌𝗍𝗌.
 ➥ 𝖭𝗈𝗐 𝗃𝗎𝗌𝗍 𝗎𝗌𝖾 /logout 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝖿𝗈𝗋 𝗅𝗈𝗀𝗈𝗎𝗍.
 
-<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://t.me/EternalsHelplineBot'>sᴜᴘᴘᴏʀᴛ</a></blockquote></b>"""
+<b><blockquote>𝖲𝗍𝗂𝗅𝗅 𝗁𝖺𝗏𝖾 𝗂𝗌𝗌𝗎𝖾𝗌? 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href='https://t.me/EternalsHelplineBot'>Support</a></blockquote></b>"""
