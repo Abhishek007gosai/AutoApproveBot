@@ -31,7 +31,7 @@ async def callback_query_handler(client, query: CallbackQuery):
         await query.message.edit_caption(
             caption=text.ABOUT,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ', url='https://t.me/EternalsHelplineBot')],
+                [InlineKeyboardButton('👨‍💻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 👨‍💻', user_id=int(ADMIN))],
                 [InlineKeyboardButton("ʙʟᴀᴄᴋ", callback_data="start"),
                  InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close")]
             ])
